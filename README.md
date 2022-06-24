@@ -11,14 +11,14 @@ Using bulleted lists and images of DataFrames as support, address the following 
  ![District_Summary_Original](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/District%20Summary%20images/District_Summary_Original.png)
  
  in figure 1.1 The Original District Summary is shown and presents the follow statistics:
-      Total Schools: 15
-      Total Students: 39,170
-      Total Budget: $24,649,428.00
-      Average Math Score: 79.0
-      Average Reading Score: 81.9
-      % Passing Math: 75.0
-      % Passing Reading: 85.8
-      % Overall Passing: 65.2
+      - Total Schools: 15
+      - Total Students: 39,170
+      - Total Budget: $24,649,428.00
+      - Average Math Score: 79.0
+      - Average Reading Score: 81.9
+      - % Passing Math: 75.0
+      - % Passing Reading: 85.8
+      - % Overall Passing: 65.2
       from figure 1.1, it should be acknowledge that the Overall passing Percentage seems to fall fairly low, summing up to be a 65.2%.
  
  figure 1.2 - District Summary Edited:
