@@ -85,8 +85,9 @@ Using bulleted lists and images of DataFrames as support, address the following 
  
  in figure 3.2 The Edited Top preforming Schools are shown. The Placement of Thomas High Schools is unchanged, showing that even after removing Ninth Grade data is does not affect the overall preformance enough to change the postion amongst other schools. 
  
- - How does replacing the ninth-grade scores affect the following:
- - Math and reading scores by grade
+ # How does replacing the ninth-grade scores affect the following:
+ 
+ - Math and reading scores by grade:
  
  figure 4.1 - Math Scores by Grade Original:
  
@@ -96,12 +97,13 @@ Using bulleted lists and images of DataFrames as support, address the following 
  
  ![Math_Scores_By_Grade_Edited](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Scores%20By%20Grade%20Images/Math_Scores_by_Grade_Edited.png)
  
- above are figures 4.1 and 4.2 illustrating the Math Scores by grade both Original and Edited. The only change that occurs between the data is in figure 4.2, where the 9th Grade values for Thomas High School are shown as "nan" or Not a Number.
+ above are figures 4.1 and 4.2 illustrating the Math Scores by grade both Original and Edited. The only change that occurs between the data is in figure 4.2, where the 9th Grade values for Thomas High School are shown as "nan" or Not a Number. This is at the result of removing that data.
  
+ - Scores by school spending:
  
- - Scores by school spending
- - Scores by school size
- - Scores by school type
+ - Scores by school size:
+ 
+ - Scores by school type:
  
 ## Summary: 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
