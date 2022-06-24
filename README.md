@@ -143,7 +143,7 @@ figure 8.1 - Scores by School Type Original:
  
  ![Scores_By_School_Type_edited](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Scores%20By%20School%20Type%20Images/Scores_By_School_Type_Edited.png)
  
- above are figures 8.1 and 8.2 illustrating the Scores by School Type Original and Edited. There are no changes that occur based on the School Size data.
+ above are figures 8.1 and 8.2 illustrating the Scores by School Type Original and Edited. There are no changes that occur based on the School Type data.
  
 ## Summary: 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+To Summaraize, changes that were made to the Ninth Grade data at Thomas High School affect the District Summary, The Per school Summary, and the presentation of data for both the math and reading scores for Ninth grade at Thomas High School. The District Summary data had miniscule changes affecting the 
