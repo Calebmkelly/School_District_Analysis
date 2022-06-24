@@ -23,12 +23,55 @@ Using bulleted lists and images of DataFrames as support, address the following 
  From figure 1.1, it should be acknowledge that the Overall passing Percentage seems to fall fairly low, summing up to be a 65.2%.
  
  figure 1.2 - District Summary Edited:
- ![image_name](path/to/image_name.png)
+ ![District_Summary_Edited](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/District%20Summary%20images/District_Summary_Edited.png)
+ 
+ in figure 1.2 The Edited District Summary is shown and presents the following Statistics:
+ - Total Schools: 15
+ - Total Students: 39,170
+ - Total Budget: $24,649,428.00
+ - Average Math Score: 78.9
+ - Average Reading Score: 81.9
+ - % Passing Math: 74.8
+ - % Passing Reading: 85.7
+ - % Overall Passing: 64.9
+ 
+ Looking at the highlighted areas in each District Summary Images illustrates the changes that occured after the removal of "academically dishonest" 
+ data. The "Average math Score" has dropped by 0.1%. The "% Passing Math" has dropped by 0.2%. The "% Passing reading" has dropped by 0.1%. The "% Overall Passing" has the largest impact, dropping by 0.3%. The changes that have occured are miniscule, but still present.  
  
  - How is the school summary affected?
  
- ![image_name](path/to/image_name.png)
- ![image_name](path/to/image_name.png)
+ figure 2.1 - Per School Summary Original:
+ ![Per_School_Summary_Original](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Per%20School%20Summary%20Images/Per_School_Summary_Original.png)
+ 
+ in figure 2.1 The Per School Summary is shown. taking a closer look at "Thomas High School", the following statistics are presented:
+ - School Type: Charter
+ - Total Students: 1635
+ - Total School Budget: $1,043,130.00 
+ - Per Student Budget: $638.00
+ - Average Math Score: 83.418349
+ - Average reading Score: 83.848930
+ - % Passing Math: 93.272171
+ - % Passing Reading: 97.308869
+ - % Overall Passing: 90.948012
+ 
+ figure 2.2 - Per School Summary Edited:
+ ![Per_School_Summary_Edited](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Per%20School%20Summary%20Images/Per_School_Summary_Edited.png)
+ 
+  in figure 2.2 The Edited Per School Summary is shown. taking a closer look at "Thomas High School", the following statistics are presented:
+ - School Type: Charter
+ - Total Students: 1635
+ - Total School Budget: $1,043,130.00 
+ - Per Student Budget: $638.00
+ - Average Math Score: 83.350937
+ - Average reading Score: 83.896082
+ - % Passing Math: 93.185690
+ - % Passing Reading: 97.018739
+ - % Overall Passing: 90.630324
+ 
+ Looking at the highlighted areas in each Per School Summary Images illustrates the changes that occured after the removal of "academically dishonest" 
+ data. The "Average math Score" has dropped by roughly 0.067%. The "Average reading Score" has increased by roughly 0.047%. The "% Passing Math" has dropped by roughly 0.086%. The "% Passing reading" has dropped by roughly 0.29%. The "% Overall Passing" has dropped by roughly 0.32%. 
+ 
+ further analysis from the Per School Summary data elucidates how the "total School Budget" does not necessarily correlate with a higher overall passing Percentage. In fact, schools with a a poor overall passing percentage seem to have a higher total School Budget, giving insight that money may not be the issue at had for poor preformance. 
  
  - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
  
