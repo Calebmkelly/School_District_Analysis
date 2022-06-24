@@ -19,7 +19,6 @@ Using bulleted lists and images of DataFrames as support, address the following 
       % Passing Math: 75.0
       % Passing Reading: 85.8
       % Overall Passing: 65.2
-      
       from figure 1.1, it should be acknowledge that the Overall passing Percentage seems to fall fairly low, summing up to be a 65.2%.
  
  figure 1.2 - District Summary Edited:
