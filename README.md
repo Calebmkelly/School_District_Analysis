@@ -87,8 +87,16 @@ Using bulleted lists and images of DataFrames as support, address the following 
  
  - How does replacing the ninth-grade scores affect the following:
  - Math and reading scores by grade
- figure 4.1 - Top Preforming Schools Edited:
- ![Top_Preforming_Schools_Edited](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Top%20Preforming%20Schools%20Images/Top_Preforming_Schools_Edited.png)
+ 
+ figure 4.1 - Math Scores by Grade Original:
+ ![Math_Scores_By_Grade_Original](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Scores%20By%20Grade%20Images/Math_Scores_By_Grade_Original.png)
+ 
+ figure 4.2 - Math Scores by Grade Edited:
+ ![Math_Scores_By_Grade_Edited](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Scores%20By%20Grade%20Images/Math_Scores_by_Grade_Edited.png)
+ 
+ above are figures 4.1 and 4.2 illustrating the Math Scores by grade both Original and Edited. The only change that occurs between the data is in figure 4.2, where the 9th Grade values for Thomas High School are shown as "nan" or Not a Number.
+ 
+ 
  - Scores by school spending
  - Scores by school size
  - Scores by school type
