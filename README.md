@@ -131,7 +131,19 @@ figure 7.1 - Scores by School Size Original:
  
  ![Scores_By_School_Size_edited](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Scores%20By%20School%20Size%20Images/Scores_By_School_Size_Edited.png)
  
+ above are figures 7.1 and 7.2 showing the Scores by School Size Original and Edited. There are no changes that occur based on the School Size data.
+ 
  - Scores by school type:
+
+figure 8.1 - Scores by School Type Original:
+ 
+ ![Scores_By_School_Type_Original](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Scores%20By%20School%20Type%20Images/Scores_By_School_Type_Original.png)
+ 
+ figure 8.2 - Scores by School Type Edited:
+ 
+ ![Scores_By_School_Type_edited](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Scores%20By%20School%20Type%20Images/Scores_By_School_Type_Edited.png)
+ 
+ above are figures 8.1 and 8.2 illustrating the Scores by School Type Original and Edited. There are no changes that occur based on the School Size data.
  
 ## Summary: 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
