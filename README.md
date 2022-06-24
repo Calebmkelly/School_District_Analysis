@@ -85,7 +85,7 @@ Using bulleted lists and images of DataFrames as support, address the following 
  
  in figure 3.2 The Edited Top preforming Schools are shown. The Placement of Thomas High Schools is unchanged, showing that even after removing Ninth Grade data is does not affect the overall preformance enough to change the postion amongst other schools. 
  
- # How does replacing the ninth-grade scores affect the following:
+ # How does replacing the ninth-grade scores affect the following?
  
  - Math and reading scores by grade:
  
@@ -98,10 +98,38 @@ Using bulleted lists and images of DataFrames as support, address the following 
  ![Math_Scores_By_Grade_Edited](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Scores%20By%20Grade%20Images/Math_Scores_by_Grade_Edited.png)
  
  above are figures 4.1 and 4.2 illustrating the Math Scores by grade both Original and Edited. The only change that occurs between the data is in figure 4.2, where the 9th Grade values for Thomas High School are shown as "nan" or Not a Number. This is at the result of removing that data.
+
+figure 5.1 - Reading Scores by Grade Original:
+ 
+ ![Reading_Scores_By_Grade_Original](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Scores%20By%20Grade%20Images/Reading_Scores_By_Grade_Original.png)
+ 
+ figure 5.2 - Reading Scores by Grade Edited:
+ 
+ ![Reading_Scores_By_Grade_Edited](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Scores%20By%20Grade%20Images/Reading_Score_By_Grade_Edited.png)
+ 
+ above are figures 5.1 and 5.2 Demonstrating the Reading Scores by grade both Original and Edited. following a similar format as the math scores, the only change that occurs between the data is in figure 5.2, where the 9th Grade values for Thomas High School are shown as "nan" or Not a Number.
  
  - Scores by school spending:
  
+ figure 6.1 - Scores by School Spending Original:
+ 
+ ![Scores_By_School_Spending_Original](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Scores%20By%20School%20Spending%20Images/Scores_By_School_Spending_Original.png)
+ 
+ figure 6.2 - Scores by School Spending Edited:
+ 
+ ![Scores_By_School_Spending_edited](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Scores%20By%20School%20Spending%20Images/Scores_By_School_Spending_Edited.png)
+ 
+ above are figures 6.1 and 6.2 Presenting the Scores by School Spending Original and Edited. There are no changes that occur based on the School Spending data.
+ 
  - Scores by school size:
+
+figure 7.1 - Scores by School Size Original:
+ 
+ ![Scores_By_School_Size_Original](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Scores%20By%20School%20Size%20Images/Scores_By_School_Size_Original.png)
+ 
+ figure 7.2 - Scores by School Size Edited:
+ 
+ ![Scores_By_School_Size_edited](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Scores%20By%20School%20Size%20Images/Scores_By_School_Size_Edited.png)
  
  - Scores by school type:
  
