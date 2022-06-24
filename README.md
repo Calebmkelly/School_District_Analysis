@@ -75,11 +75,20 @@ Using bulleted lists and images of DataFrames as support, address the following 
  
  - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
  
- ![image_name](path/to/image_name.png)
- ![image_name](path/to/image_name.png)
+ figure 3.1 - Top Preforming Schools Original:
+ ![Top_Preforming_Schools_Original](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Top%20Preforming%20Schools%20Images/Top_Preforming_schools_Original.png)
+ 
+ in figure 3.1 The original top preforming Schools are shown. Thomas High School appears as the second highest preforming school, following right behind Cabrera High School. 
+ 
+  figure 3.2 - Top Preforming Schools Edited:
+ ![Top_Preforming_Schools_Edited](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Top%20Preforming%20Schools%20Images/Top_Preforming_Schools_Edited.png)
+ 
+ in figure 3.2 The Edited Top preforming Schools are shown. The Placement of Thomas High Schools is unchanged, showing that even after removing Ninth Grade data is does not affect the overall preformance enough to change the postion amongst other schools. 
  
  - How does replacing the ninth-grade scores affect the following:
  - Math and reading scores by grade
+ figure 4.1 - Top Preforming Schools Edited:
+ ![Top_Preforming_Schools_Edited](https://github.com/Calebmkelly/School_District_Analysis/blob/main/Resources/Top%20Preforming%20Schools%20Images/Top_Preforming_Schools_Edited.png)
  - Scores by school spending
  - Scores by school size
  - Scores by school type
